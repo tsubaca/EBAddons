@@ -1,0 +1,2 @@
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\EloBuddy.exe.config
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\Lux.exe.config

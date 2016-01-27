@@ -1,0 +1,14 @@
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\Lux.exe.config
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\Lux.exe
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\Lux.pdb
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\EloBuddy.dll
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\EloBuddy.SDK.dll
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\SharpDX.dll
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\obj\Debug\Lux.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\obj\Debug\Lux.exe
+C:\Users\gabriel.lyra\Source\Repos\EBAddons\EloBuddy\EloBuddy\obj\Debug\Lux.pdb
+C:\Users\gabriel.lyra\Documents\GitHubVisualStudio\EBAddons\EloBuddy\bin\Debug\Lux.exe.config
+C:\Users\gabriel.lyra\Documents\GitHubVisualStudio\EBAddons\EloBuddy\obj\Debug\Lux.exe
+C:\Users\gabriel.lyra\Documents\GitHubVisualStudio\EBAddons\EloBuddy\obj\Debug\Lux.pdb
